@@ -1,6 +1,5 @@
 # swift-amplify-upload-to-s3
 
-```swift
 # Swift Amplify S3 Upload
 
 ### Dependency
