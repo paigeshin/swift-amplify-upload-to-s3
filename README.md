@@ -14,7 +14,7 @@
 
 ### Command lines
 
-```bash
+```shell
 amplify init 
 amplify add storage 
 
